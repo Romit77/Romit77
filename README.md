@@ -12,11 +12,10 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romit77&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=romit77&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@romit77)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romit77)](https://holopin.io/@romit77)
 ---
 [![](https://visitcount.itsvg.in/api?id=romit77&icon=2&color=6)](https://visitcount.itsvg.in)
 
