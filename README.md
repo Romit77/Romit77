@@ -1,6 +1,6 @@
 [![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romit77)](https://holopin.io/@romit77)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&duration=3000&pause=1000&color=7FFF00&width=435&lines=Hi+There%2C+Romit+this+side+!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans+SC&duration=3000&pause=1000&color=8000FF&width=435&lines=Hi+There%2C+Romit+this+side+!)
 
 # 💫 About Me:
 MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
