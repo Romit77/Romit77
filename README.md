@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&theme=taransparent)](https://www.linkedin.com/in/romit-dey-512108249/)
