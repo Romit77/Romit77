@@ -15,7 +15,7 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 
 <p align="center">
 <a href="https://github.com/Romit77">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Romit77&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" alt="Romit77" />
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=romit77&theme=transparent&hide_border=false" alt="Romit77" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romit77&layout=donut&theme=transparent&private=true" alt="Romit77" />
 </a>
 </p>
