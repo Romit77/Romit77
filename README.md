@@ -20,10 +20,8 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 </a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=romit77&icon=2&color=6)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Romit77&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
