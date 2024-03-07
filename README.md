@@ -1,7 +1,6 @@
 [![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romit77)](https://holopin.io/@romit77)
 
-
-
+<p align="center">
 # 💫 About Me:
 MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -9,6 +8,7 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&theme=taransparent)](https://www.linkedin.com/in/romit77/)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&theme=transparent)](https://twitter.com/Romit_77)
+
 
 
 # 💻 Tech Stack:
@@ -26,4 +26,4 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 [![](https://visitcount.itsvg.in/api?id=Romit77&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-
+</p>
