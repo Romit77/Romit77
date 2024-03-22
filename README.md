@@ -3,7 +3,6 @@
 [![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romit77)](https://holopin.io/@romit77)
 <h3 align="center">Problem Solver || Full Stack Developer || C++ Programmer </h3>
 
-<img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
@@ -16,7 +15,7 @@
   </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;Github Analytics: </h3>
 <p align="center">
 <a href="https://github.com/Romit77">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=romit77&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Romit77" />
@@ -24,8 +23,6 @@
 </a>
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=Romit77&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 
