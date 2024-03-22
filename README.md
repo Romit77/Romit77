@@ -1,16 +1,11 @@
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Romit Dey!!</h1>
+
 [![An image of @romit77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/romit77)](https://holopin.io/@romit77)
+<h3 align="center">Problem Solver || Full Stack Developer || C++ Programmer </h3>
 
-
-# 💫 About Me:
-MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
 <img align="right" width=190px height=190px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&theme=taransparent)](https://www.linkedin.com/in/romit77/)
-[![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&theme=transparent)](https://twitter.com/Romit_77)
-
-
-# 💻 Tech Stack:
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,react,redux,nextjs,express,typescript,nodejs" />
@@ -21,9 +16,7 @@ MERN stack developer and C++ programmer. Undergrad at VIT Bhopal university
   </a>
 </p>
 
- 
-# 📊 GitHub Stats:
-
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Romit77">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=romit77&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Romit77" />
