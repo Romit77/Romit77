@@ -7,11 +7,11 @@
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,react,redux,nextjs,express,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,bootstrap,react,redux,nextjs,express,typescript,nodejs,postgresql,workers" />
   </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,mongodb,tailwind,postman,vercel,appwrite,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=github,mongodb,tailwind,postman,vercel,appwrite,git,powershell,prisma" />
   </a>
 </p>
 
